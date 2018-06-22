@@ -1,4 +1,4 @@
-# myflutterapp
+# flutterextended
 
 A new Flutter project.
 
